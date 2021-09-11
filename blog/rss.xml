@@ -2,63 +2,63 @@
 <rss version="2.0">
     <channel>
         <title>My Docs Blog</title>
-        <link>https://your-docusaurus-test-site.com/blog</link>
+        <link>https://your-docusaurus-test-site.com/reference/blog</link>
         <description>My Docs Blog</description>
         <lastBuildDate>Sat, 11 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[What are those symbols shown in menus on Mac?]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/2021/09/11/What are those symbols shown in menus on Mac</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/2021/09/11/What are those symbols shown in menus on Mac</link>
             <guid>What are those symbols shown in menus on Mac?</guid>
             <pubDate>Sat, 11 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Many app menus on your Mac show key combinations, such as Command symbol followed by N, next to certain menu options. The symbols in the key combinations represent special keyboard keys, called modifier keys.]]></description>
         </item>
         <item>
             <title><![CDATA[Follow Correct Steps to Uninstall Postman on Mac]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Follow Correct Steps to Uninstall Postman on Mac</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/Follow Correct Steps to Uninstall Postman on Mac</link>
             <guid>Follow Correct Steps to Uninstall Postman on Mac</guid>
             <pubDate>Mon, 06 Sep 2021 19:20:42 GMT</pubDate>
             <description><![CDATA[Having troubles in uninstalling Postman from your Mac? Don’t know how to wipe out the remnants of this app without risk-taking? If you think you can thoroughly uninstall Postman by deleting it from the /Applications folder, you could be wrong.]]></description>
         </item>
         <item>
             <title><![CDATA[How to Get a Job at Amazon - Level Up Coding]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/How to Get a Job at Amazon - Level Up Coding</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/How to Get a Job at Amazon - Level Up Coding</link>
             <guid>How to Get a Job at Amazon - Level Up Coding</guid>
             <pubDate>Mon, 06 Sep 2021 19:15:15 GMT</pubDate>
             <description><![CDATA[And Why You May Not Want One]]></description>
         </item>
         <item>
             <title><![CDATA[Top Algorithms/Data Structures/Concepts every computer science student should know]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Top AlgorithmsData StructuresConcepts every computer science student should know</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/Top AlgorithmsData StructuresConcepts every computer science student should know</link>
             <guid>Top Algorithms/Data Structures/Concepts every computer science student should know</guid>
             <pubDate>Mon, 06 Sep 2021 19:13:11 GMT</pubDate>
             <description><![CDATA[Every computer science student is expected to know the following algorithms:]]></description>
         </item>
         <item>
             <title><![CDATA[Roadmap: How to Learn Machine Learning in 6 Months - METIS - Medium]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Roadmap How to Learn Machine Learning in 6 Months - METIS - Medium</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/Roadmap How to Learn Machine Learning in 6 Months - METIS - Medium</link>
             <guid>Roadmap: How to Learn Machine Learning in 6 Months - METIS - Medium</guid>
             <pubDate>Mon, 06 Sep 2021 19:09:17 GMT</pubDate>
             <description><![CDATA[This post was written by Metis Senior Data Scientist Zachariah Miller, who is based in Chicago. You can see the post on the company blog here.]]></description>
         </item>
         <item>
             <title><![CDATA[Money Heist: 15 Lessons every Entrepreneur can learn from this Netflix series]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/Money Heist 15 Lessons every Entrepreneur can learn from this Netflix series</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/Money Heist 15 Lessons every Entrepreneur can learn from this Netflix series</link>
             <guid>Money Heist: 15 Lessons every Entrepreneur can learn from this Netflix series</guid>
             <pubDate>Mon, 06 Sep 2021 19:03:16 GMT</pubDate>
             <description><![CDATA[“After all, what’s more human than the fight for survival?” — Tokyo]]></description>
         </item>
         <item>
             <title><![CDATA[5 React Native Open Source Projects To Learn From]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/5 React Native Open Source Projects To Learn From</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/5 React Native Open Source Projects To Learn From</link>
             <guid>5 React Native Open Source Projects To Learn From</guid>
             <pubDate>Mon, 06 Sep 2021 18:56:15 GMT</pubDate>
             <description><![CDATA[Best way to learn writing software is to read open source code — Every Senior Programmer.]]></description>
         </item>
         <item>
             <title><![CDATA[List of Open Source React projects on GitHub to learn from]]></title>
-            <link>https://your-docusaurus-test-site.com/blog/List of Open Source React projects on GitHub to learn from</link>
+            <link>https://your-docusaurus-test-site.com/reference/blog/List of Open Source React projects on GitHub to learn from</link>
             <guid>List of Open Source React projects on GitHub to learn from</guid>
             <pubDate>Mon, 06 Sep 2021 18:53:45 GMT</pubDate>
             <description><![CDATA[As you grow your knowledge in React.js, you will notice that there are many sources with simple code examples but only a few of advanced stuff. And many of them have “outdated code” (no hooks, class components everywhere, etc).]]></description>
