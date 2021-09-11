@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/blog</id>
+    <title>My Docs Blog</title>
+    <updated>2021-09-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <subtitle>My Docs Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[What are those symbols shown in menus on Mac?]]></title>
+        <id>What are those symbols shown in menus on Mac?</id>
+        <link href="https://your-docusaurus-test-site.com/blog/2021/09/11/What are those symbols shown in menus on Mac"/>
+        <updated>2021-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many app menus on your Mac show key combinations, such as Command symbol followed by N, next to certain menu options. The symbols in the key combinations represent special keyboard keys, called modifier keys.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Correct Steps to Uninstall Postman on Mac]]></title>
+        <id>Follow Correct Steps to Uninstall Postman on Mac</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Follow Correct Steps to Uninstall Postman on Mac"/>
+        <updated>2021-09-06T19:20:42.202Z</updated>
+        <summary type="html"><![CDATA[Having troubles in uninstalling Postman from your Mac? Don’t know how to wipe out the remnants of this app without risk-taking? If you think you can thoroughly uninstall Postman by deleting it from the /Applications folder, you could be wrong.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Job at Amazon - Level Up Coding]]></title>
+        <id>How to Get a Job at Amazon - Level Up Coding</id>
+        <link href="https://your-docusaurus-test-site.com/blog/How to Get a Job at Amazon - Level Up Coding"/>
+        <updated>2021-09-06T19:15:15.916Z</updated>
+        <summary type="html"><![CDATA[And Why You May Not Want One]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Algorithms/Data Structures/Concepts every computer science student should know]]></title>
+        <id>Top Algorithms/Data Structures/Concepts every computer science student should know</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Top AlgorithmsData StructuresConcepts every computer science student should know"/>
+        <updated>2021-09-06T19:13:11.727Z</updated>
+        <summary type="html"><![CDATA[Every computer science student is expected to know the following algorithms:]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadmap: How to Learn Machine Learning in 6 Months - METIS - Medium]]></title>
+        <id>Roadmap: How to Learn Machine Learning in 6 Months - METIS - Medium</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Roadmap How to Learn Machine Learning in 6 Months - METIS - Medium"/>
+        <updated>2021-09-06T19:09:17.813Z</updated>
+        <summary type="html"><![CDATA[This post was written by Metis Senior Data Scientist Zachariah Miller, who is based in Chicago. You can see the post on the company blog here.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Money Heist: 15 Lessons every Entrepreneur can learn from this Netflix series]]></title>
+        <id>Money Heist: 15 Lessons every Entrepreneur can learn from this Netflix series</id>
+        <link href="https://your-docusaurus-test-site.com/blog/Money Heist 15 Lessons every Entrepreneur can learn from this Netflix series"/>
+        <updated>2021-09-06T19:03:16.030Z</updated>
+        <summary type="html"><![CDATA[“After all, what’s more human than the fight for survival?” — Tokyo]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 React Native Open Source Projects To Learn From]]></title>
+        <id>5 React Native Open Source Projects To Learn From</id>
+        <link href="https://your-docusaurus-test-site.com/blog/5 React Native Open Source Projects To Learn From"/>
+        <updated>2021-09-06T18:56:15.467Z</updated>
+        <summary type="html"><![CDATA[Best way to learn writing software is to read open source code — Every Senior Programmer.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List of Open Source React projects on GitHub to learn from]]></title>
+        <id>List of Open Source React projects on GitHub to learn from</id>
+        <link href="https://your-docusaurus-test-site.com/blog/List of Open Source React projects on GitHub to learn from"/>
+        <updated>2021-09-06T18:53:45.397Z</updated>
+        <summary type="html"><![CDATA[As you grow your knowledge in React.js, you will notice that there are many sources with simple code examples but only a few of advanced stuff. And many of them have “outdated code” (no hooks, class components everywhere, etc).]]></summary>
+    </entry>
+</feed>
